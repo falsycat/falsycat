@@ -6,8 +6,6 @@
 
 Tokyo, Japan 🗼
 
-[![](https://img.shields.io/badge/Chess-lichess-000000?style=flat-square&logo=lichess&logoColor=white)](https://lichess.org/)
-&nbsp;
 *Building systems — in code, in law, and in everything in between.*
 
 </div>
