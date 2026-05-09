@@ -57,6 +57,6 @@ Outside of work, I play chess — another game about structure, foresight, and f
 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=falsycat&theme=tokyonight" /></td>
 </tr></table>
 
-<img src="https://streak-stats.demolab.com?user=falsycat&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=falsycat&theme=tokyonight" />
 
 </div>
